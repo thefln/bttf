@@ -40,5 +40,3 @@ fields:
     required: true
 pages:
 - blog/posts/try.md
-- blog/posts/dexter/really-brilliant-ideas.md
-- blog/posts/dexter/nobodys-taxi-service.md
