@@ -9,6 +9,8 @@ sections:
   label: Config
   templates:
   - config
+- type: heading
+  label: Content
 - type: document
   path: blog/index.md
   label: Home
