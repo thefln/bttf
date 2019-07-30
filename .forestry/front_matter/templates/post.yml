@@ -39,6 +39,7 @@ fields:
   config:
     required: true
 pages:
+- blog/posts/try.md
 - blog/posts/futurama/when-will-that-be.md
 - blog/posts/futurama/leela-is-gonna-kill-me.md
 - blog/posts/futurama/good-news-everybody.md
