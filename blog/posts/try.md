@@ -7,6 +7,10 @@ tags:
 - prose
 categories: []
 readingTime: ''
+excerpt: |-
+  Listen, I know it ain’t easy.
+
+  I know the tears come more often than we’d like them to. And I won’t lie to you: it won’t get any easier.
 
 ---
 Photo by [Hello I'm Nik 🇬🇧](https://unsplash.com/@helloimnik?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
