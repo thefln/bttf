@@ -18,19 +18,15 @@ fields:
 - type: list
   name: tags
   label: Tags
-- type: list
-  name: categories
-  label: categories
+- name: excerpt
+  type: textarea
+  default: ''
   config:
-    use_select: true
-    source:
-      type: custom
-    options:
-    - dexter
-    - futurama
-- type: text
-  name: readingTime
-  label: Reading Time
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Excerpt
 - type: text
   name: type
   label: Type
