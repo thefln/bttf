@@ -35,4 +35,5 @@ fields:
   config:
     required: true
 pages:
+- blog/posts/lifeguard.md
 - blog/posts/try.md
