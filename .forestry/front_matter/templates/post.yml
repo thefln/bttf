@@ -35,5 +35,6 @@ fields:
   config:
     required: true
 pages:
+- blog/posts/crazy.md
 - blog/posts/lifeguard.md
 - blog/posts/try.md
