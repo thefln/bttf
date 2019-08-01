@@ -1,7 +1,7 @@
 ---
 type: post
 title: Crazy
-image: ''
+image: "/images/BTTF_10.jpg"
 publish: 2019-07-30T04:00:00Z
 tags:
 - prose
