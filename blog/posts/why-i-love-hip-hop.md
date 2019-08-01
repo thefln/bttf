@@ -1,7 +1,7 @@
 ---
 type: post
 title: Why I love hip-hop
-image: ''
+image: "/images/BTTF_06.jpg"
 publish: 2019-07-30T04:00:00Z
 tags:
 - poems
