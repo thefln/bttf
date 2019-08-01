@@ -20,11 +20,11 @@
       },
       {
         "text": "stories",
-        "link": "https://bttf-jamstack.netlify.com/tags/stories"
+        "link": "/tags/stories"
       },
       {
         "text": "prose",
-        "link": "https://bttf-jamstack.netlify.com/tags/prose"
+        "link": "/tags/prose"
       }
     ],
     "footer": [
