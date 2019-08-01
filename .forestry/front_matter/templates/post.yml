@@ -35,6 +35,7 @@ fields:
   config:
     required: true
 pages:
+- blog/posts/lifeguard.md
 - blog/posts/letter-from-an-old-man.md
 - blog/posts/crazy.md
 - blog/posts/connected.md
@@ -43,5 +44,4 @@ pages:
 - blog/posts/do-not-give-up.md
 - blog/posts/why-i-love-hip-hop.md
 - blog/posts/tombstone.md
-- blog/posts/lifeguard.md
 - blog/posts/try.md
