@@ -1,7 +1,7 @@
 ---
 type: post
 title: Do not give up
-image: ''
+image: "/images/BTTF_09.jpg"
 publish: 2019-07-30T04:00:00Z
 tags: []
 excerpt: What suicide, love, writing, my job, my anxiety and breaking my spine taught
