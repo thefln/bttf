@@ -21,6 +21,10 @@
       {
         "text": "stories",
         "link": "https://bttf-jamstack.netlify.com/tags/stories"
+      },
+      {
+        "text": "prose",
+        "link": "https://bttf-jamstack.netlify.com/tags/prose"
       }
     ],
     "footer": [
