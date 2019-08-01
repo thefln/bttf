@@ -1,7 +1,7 @@
 ---
 type: post
 title: The lovely death of warmth
-image: ''
+image: "/images/BTTF_08.jpg"
 publish: 2019-07-30T04:00:00Z
 tags:
 - poems
