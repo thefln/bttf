@@ -1,7 +1,7 @@
 ---
 type: post
 title: The edge of the world
-image: ''
+image: "/images/BTTF_02.jpg"
 publish: 2019-07-30T04:00:00Z
 tags:
 - poems
