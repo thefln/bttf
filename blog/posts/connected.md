@@ -1,7 +1,7 @@
 ---
 type: post
 title: Connected
-image: ''
+image: "/images/BTTF_01.jpg"
 publish: 2019-07-30T04:00:00Z
 tags:
 - poems

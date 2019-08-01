@@ -35,8 +35,8 @@ fields:
   config:
     required: true
 pages:
-- blog/posts/the-edge-of-the-world.md
 - blog/posts/connected.md
+- blog/posts/the-edge-of-the-world.md
 - blog/posts/the-lovely-death-of-warmth.md
 - blog/posts/do-not-give-up.md
 - blog/posts/why-i-love-hip-hop.md
