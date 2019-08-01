@@ -11,12 +11,16 @@
         "link": "/"
       },
       {
-        "text": "Posts",
-        "link": "/posts"
-      },
-      {
         "text": "About",
         "link": "/about.html"
+      },
+      {
+        "text": "poems",
+        "link": "https://bttf-jamstack.netlify.com/tags/poems"
+      },
+      {
+        "text": "stories",
+        "link": "https://bttf-jamstack.netlify.com/tags/stories"
       }
     ],
     "footer": [
